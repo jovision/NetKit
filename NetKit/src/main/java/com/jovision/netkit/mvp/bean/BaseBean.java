@@ -1,7 +1,6 @@
 package com.jovision.netkit.mvp.bean;
 
 
-import java.util.Optional;
 
 /**
  * Created by ZHP on 2017/6/24.
