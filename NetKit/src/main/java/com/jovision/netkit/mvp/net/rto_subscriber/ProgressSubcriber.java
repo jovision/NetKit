@@ -29,7 +29,6 @@ import java.net.UnknownHostException;
 import java.net.UnknownServiceException;
 import java.util.List;
 
-import io.reactivex.annotations.NonNull;
 import io.reactivex.disposables.Disposable;
 import okhttp3.ResponseBody;
 import retrofit2.HttpException;
