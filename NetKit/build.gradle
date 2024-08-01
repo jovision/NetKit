@@ -53,7 +53,6 @@ dependencies {
 
     implementation 'com.github.jovision:BaseKit:latest.release'
     implementation 'com.github.jovision:LanguageKit:V0.0.4'
-    implementation 'com.github.jovision:UIKit:V0.0.6'
 
     // 弹框
     implementation 'cn.pedant.sweetalert:library:1.3'
