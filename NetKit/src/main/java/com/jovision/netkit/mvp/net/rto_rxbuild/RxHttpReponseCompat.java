@@ -6,6 +6,7 @@ import android.util.Log;
 
 import com.jovision.basekit.LogUtil;
 import com.jovision.netkit.mvp.bean.BaseBean;
+import com.jovision.netkit.mvp.bean.EmptyBean;
 import com.jovision.netkit.mvp.net.rto_exception.ApiException;
 
 import io.reactivex.Observable;
