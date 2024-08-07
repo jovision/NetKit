@@ -5,7 +5,7 @@ import android.graphics.Color;
 import android.os.Handler;
 import android.os.Message;
 
-import com.jovision.uikit.widget.sweetdialog.SweetAlertDialog;
+import cn.pedant.SweetAlert.SweetAlertDialog;
 
 
 /**

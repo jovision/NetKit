@@ -1,20 +1,12 @@
 package com.jovision.netkit.mvp.net.rto_subscriber;
 
-import static android.content.Context.ACTIVITY_SERVICE;
-
-import android.app.ActivityManager;
-import android.content.ComponentName;
 import android.content.Context;
-import android.content.Intent;
-import android.util.Log;
-import android.view.View;
-
 
 import com.jovision.basekit.JsonUtils;
 import com.jovision.basekit.LogUtil;
 import com.jovision.languagekit.R.string;
 import com.jovision.netkit.BuildConfig;
-import com.jovision.netkit.mvp.bean.BaseBean;
+import com.jovision.netkit.mvp.data.bean.BaseBean;
 import com.jovision.netkit.mvp.net.rto_exception.ApiException;
 import com.jovision.netkit.mvp.net.rto_exception.BaseException;
 import com.jovision.netkit.mvp.net.rto_exception.EmptyDataException;
