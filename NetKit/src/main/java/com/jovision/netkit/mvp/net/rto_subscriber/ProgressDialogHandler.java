@@ -5,7 +5,7 @@ import android.graphics.Color;
 import android.os.Handler;
 import android.os.Message;
 
-import cn.pedant.SweetAlert.SweetAlertDialog;
+import com.jovision.netkit.mvp.widget.sweetdialog.SweetAlertDialog;
 
 
 /**

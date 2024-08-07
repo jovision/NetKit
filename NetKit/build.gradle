@@ -60,9 +60,6 @@ dependencies {
     // dagger2
     implementation 'com.google.dagger:dagger:2.38.1'
 
-    // 弹框
-    implementation 'cn.pedant.sweetalert:library:1.3'
-
     implementation 'com.alibaba:fastjson:1.2.73'
 
     // eventbus
