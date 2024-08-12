@@ -1,6 +1,8 @@
 package com.jovision.netkit.mvp.data.bean.response;
 
-public class ACLoginResponseBean {
+import java.io.Serializable;
+
+public class ACLoginResponseBean implements Serializable {
 
     private String accessToken;
     private int accessTokenExpire;

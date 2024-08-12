@@ -1,6 +1,8 @@
 package com.jovision.netkit.mvp.data;
 
-public class RefreshTokenDataBean {
+import java.io.Serializable;
+
+public class RefreshTokenDataBean implements Serializable {
     private String accessToken;
     private long accessTokenExpire;
 
